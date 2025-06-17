@@ -75,8 +75,8 @@ VideoMerger/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/VideoMerger.git
-cd VideoMerger
+git clone https://github.com/leefarhadaman/video_merger.git
+cd video_merger
 ```
 
 2. Install backend dependencies:
@@ -131,7 +131,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Farhad Ali**
 - Portfolio: [devfaru.netlify.app](https://devfaru.netlify.app)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@leefarhadaman](https://github.com/leefarhadaman)
 
 ## 🙏 Acknowledgments
 
